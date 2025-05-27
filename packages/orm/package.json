@@ -1,0 +1,19 @@
+{
+  "name": "@root/orm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -b"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "prisma": "^6.7.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.7.0"
+  }
+}
